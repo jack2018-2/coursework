@@ -22,11 +22,13 @@
                 <name qname="public" />
               </node>
             </node>
-            <node kind="database" qname="postgres" />
-            <node kind="database" qname="lab3_5">
-              <node kind="schema" qname="lab3_5" />
+            <node kind="database">
+              <name qname="lab3_5" />
+              <name qname="postgres" />
             </node>
-            <node kind="database" qname="prison">
+            <node kind="database">
+              <name qname="lab6_7" />
+              <name qname="prison" />
               <node kind="schema" qname="public" />
             </node>
           </node>

@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d9481bd-5378-41ec-b3c4-0ee98274529c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/cursework.oy7rKA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/lab3_5.fKLPvQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/lab3_5.fKLPvQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/public.abK9xQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/default.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7d9481bd-5378-41ec-b3c4-0ee98274529c" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/cursework.oy7rKA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/cursework.oy7rKA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/cursework.oy7rKA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/lab3_5.fKLPvQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/lab3_5.fKLPvQ/schema/lab3_5.fKLPvQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9f41e5e5-7874-4ad5-b903-0acfffa716a6/storage_v2/_src_/database/prison.i7WWxQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +45,13 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/cursework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jack2\AppData\Roaming\JetBrains\DataGrip2020.2\projects\default" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,9 +76,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="236" key="#Notifications" timestamp="1605007543705">
@@ -93,22 +91,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1605007615592" />
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600441671693">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606056331710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600441671693" />
-    <state x="833" y="170" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1605006827361">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606056331710" />
+    <state x="833" y="170" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1606056058206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="833" y="170" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1536.824@0.0.1536.824" timestamp="1605006827361" />
+    <state x="833" y="170" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1536.824@0.0.1536.824" timestamp="1606056058206" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1603182815077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1603182815077" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605050766754">
+    <state x="424" y="127" key="FileChooserDialogImpl" timestamp="1605052018743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605050766754" />
+    <state x="424" y="127" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605052018743" />
     <state x="553" y="279" key="Github.CreatePullRequestDialog" timestamp="1605051754651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -117,22 +115,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605051108054" />
-    <state width="501" height="210" key="GridCell.Tab.0.bottom" timestamp="1605050624946">
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1606129597354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="501" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605050624946" />
-    <state width="501" height="210" key="GridCell.Tab.0.center" timestamp="1605050624946">
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606129597354" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1606129597353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="501" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605050624946" />
-    <state width="501" height="210" key="GridCell.Tab.0.left" timestamp="1605050624946">
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606129597353" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1606129597353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="501" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605050624946" />
-    <state width="501" height="210" key="GridCell.Tab.0.right" timestamp="1605050624946">
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606129597353" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1606129597354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="501" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605050624946" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606129597354" />
     <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1605003485741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -141,34 +139,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605051795894" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605051731385">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605052084326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605051731385" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605052084326" />
     <state x="596" y="295" width="344" height="320" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1601652261104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="596" y="295" width="344" height="320" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.0.1536.824@0.0.1536.824" timestamp="1601652261104" />
-    <state x="668" y="272" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605003515808">
+    <state x="668" y="272" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1606079488830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="668" y="272" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1605003515808" />
-    <state x="655" y="299" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1605049545949">
+    <state x="668" y="272" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1606079488830" />
+    <state x="655" y="299" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1606079279599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="655" y="299" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1605049545949" />
+    <state x="655" y="299" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1606079279599" />
     <state x="579" y="197" width="378" height="385" key="com.intellij.database.actions.DdlActions$ModifyObject$1" timestamp="1602861342771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="197" width="378" height="385" key="com.intellij.database.actions.DdlActions$ModifyObject$1/0.0.1536.824@0.0.1536.824" timestamp="1602861342771" />
+    <state x="566" y="232" width="403" height="351" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1606079458092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="232" width="403" height="351" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824@0.0.1536.824" timestamp="1606079458092" />
     <state x="668" y="353" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1603182927054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="668" y="353" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1536.824@0.0.1536.824" timestamp="1603182927054" />
-    <state x="935" y="160" width="521" height="664" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1605006682809">
+    <state x="935" y="160" width="521" height="664" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606129605692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="935" y="160" width="521" height="664" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1605006682809" />
+    <state x="935" y="160" width="521" height="664" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606129605692" />
+    <state x="238" y="39" key="com.intellij.database.view.ui.DatabasePreviewDialog" timestamp="1606073857136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="39" key="com.intellij.database.view.ui.DatabasePreviewDialog/0.0.1536.824@0.0.1536.824" timestamp="1606073857136" />
     <state x="570" y="318" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605051526431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
